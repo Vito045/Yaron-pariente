@@ -46,5 +46,8 @@
     "socketio-file-upload": "^0.7.0",
     "utf8": "^3.0.0",
     "validator": "^10.11.0"
+  },
+  "engines": {
+    "node": ">=12.16.1"
   }
 }
